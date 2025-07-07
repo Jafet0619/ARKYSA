@@ -28,7 +28,7 @@ src/
 
 1. Clona el repositorio:
    ```sh
-   git clone https://github.com/tu-usuario/arkysa.git
+   git clone https://github.com/Jafet0619/arkysa.git
    ```
 2. Abre `index.html` en tu navegador.
 
