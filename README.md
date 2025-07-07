@@ -40,4 +40,4 @@ No se requieren dependencias adicionales.
 
 ## Licencia
 
-Este proyecto está bajo la
+Este proyecto está bajo la licencia MIT.
